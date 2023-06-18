@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="DELETE">
+        <sp_dependency display_value="chart.js">a7a8754347011200ba13a5554ee4905c</sp_dependency>
+        <sp_widget display_value="Notes List">06948fa8db3133000613a08a4896194c</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-18 12:06:10</sys_created_on>
+        <sys_id>1591afbc072be1101925ff208c1ed0e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chart.js.Notes List</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_1591afbc072be1101925ff208c1ed0e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-18 12:06:10</sys_updated_on>
+    </m2m_sp_widget_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>e41f6246db18b34052dd2f17d4961979</instance_id>
+        <instance_name>dev76463</instance_name>
+        <name>m2m_sp_widget_dependency_1591afbc072be1101925ff208c1ed0e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency"><m2m_sp_widget_dependency action="INSERT_OR_UPDATE"><sp_dependency display_value="chart.js">a7a8754347011200ba13a5554ee4905c</sp_dependency><sp_widget display_value="Notes List">06948fa8db3133000613a08a4896194c</sp_widget><sys_class_name>m2m_sp_widget_dependency</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-18 12:06:10</sys_created_on><sys_id>1591afbc072be1101925ff208c1ed0e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chart.js.Notes List</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>m2m_sp_widget_dependency_1591afbc072be1101925ff208c1ed0e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-18 12:06:10</sys_updated_on></m2m_sp_widget_dependency></record_update>]]></payload>
+        <payload_hash>937210932</payload_hash>
+        <record_name>chart.js.Notes List</record_name>
+        <reverted_from/>
+        <source>96def84c072721101925ff208c1ed00b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-18 12:06:10</sys_created_on>
+        <sys_id>d991afbc072be1101925ff208c1ed0eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188ce65fba30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-18 12:06:10</sys_updated_on>
+        <type>Widget Dependency</type>
+        <update_guid>1591afbc872be110cac0cda8989adceb</update_guid>
+        <update_guid_history>1591afbc872be110cac0cda8989adceb:937210932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="chart.js.Notes List">da1227fc072be1101925ff208c1ed03b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-18 12:08:25</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_widget_dependency">m2m_sp_widget_dependency</sys_db_object>
+        <sys_id>2895dfb1beef4348a877d236110eb764</sys_id>
+        <sys_metadata>1591afbc072be1101925ff208c1ed0e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chart.js.Notes List</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>m2m_sp_widget_dependency_1591afbc072be1101925ff208c1ed0e9</sys_update_name>
+        <sys_update_version display_value="m2m_sp_widget_dependency_1591afbc072be1101925ff208c1ed0e9">d991afbc072be1101925ff208c1ed0eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-18 12:08:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
